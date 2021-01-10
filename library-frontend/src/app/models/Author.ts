@@ -1,7 +1,7 @@
 import { Book } from "./Book";
 
 export class Author {
-    id!: number;
-    name!: string;
-    books!: Book[];
+    Id!: number;
+    Name!: string;
+    Books!: Book[];
 }
