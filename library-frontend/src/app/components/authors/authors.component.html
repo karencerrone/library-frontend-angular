@@ -1,0 +1,6 @@
+<div *ngFor= "let author of authors">
+        {{author.Id}} - 
+        {{author.Name}}
+        <app-book *ngFor= "let book of author.Books" [bookParam] = "book">
+        </app-book>
+</div>
