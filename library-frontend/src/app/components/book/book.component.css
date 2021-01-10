@@ -1,0 +1,14 @@
+.clase1 {
+    background-color: coral;
+    height: 50px;
+    border-style: solid;
+    border-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: large;
+    vertical-align: center;
+}
+
+.clase2 {
+    background-color: burlywood;
+}
